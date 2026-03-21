@@ -36,7 +36,7 @@ u just suck
 </head>
 <body>
 
-    <h1>Systemfeil🫘beans</h1>
+    <h1>u suck!</h1>
     <p id="insult">you suck <br> 0 funnet.</p>
 
     <button id="run-away-btn" onmouseover="flykt()">click here if ur smart smart</button>
