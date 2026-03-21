@@ -1,11 +1,14 @@
 # u-really-suck
 u just suck
-            
-  <title>Velkommen tapere</title>
+<!DOCTYPE html>
+<html lang="no">
+<head>
+    <meta charset="UTF-8">
+    <title>welcome sucker</title>
     <style>
         body {
-            background-color: #000;
-            color: #0f0;
+            background-color: #4552E6;
+            color: #AB45E6;
             font-family: 'Courier New', Courier, monospace;
             display: flex;
             flex-direction: column;
@@ -18,7 +21,7 @@ u just suck
         }
 
         h1 { font-size: 3rem; margin-bottom: 10px; }
-        p { font-size: 1.5rem; color: #ff00ea; }
+        p { font-size: 1.5rem; color: #FF0000; }
 
         #run-away-btn {
             padding: 15px 30px;
@@ -33,17 +36,17 @@ u just suck
 </head>
 <body>
 
-    <h1>Systemfeil: Bruker er for teit</h1>
-    <p id="insult">Leter etter hjerneceller... <br> 0 funnet.</p>
+    <h1>Systemfeil🫘beans</h1>
+    <p id="insult">you suck <br> 0 funnet.</p>
 
-    <button id="run-away-btn" onmouseover="flykt()">Klikk her hvis du er smart</button>
+    <button id="run-away-btn" onmouseover="flykt()">click here if ur smart smart</button>
 
     <script>
         const fornærmelser = [
-            "Du ser ut som noen som bruker sokker i sandaler.",
-            "Jeg har sett brødristere med høyere IQ enn deg.",
-            "Var det meningen at du skulle se sånn ut i dag?",
-            "Du er grunnen til at vi har advarsler på sjampoflasker."
+            "u smel like feet.",
+            "u look very human.",
+            "ur hair is not very good loking",
+            "u look like u eat banana bread."
         ];
 
         // Bytter fornærmelse hvert 3. sekund
