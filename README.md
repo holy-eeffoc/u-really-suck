@@ -7,8 +7,8 @@ u just suck
     <title>welcome sucker</title>
     <style>
         body {
-            background-color: #4552E6;
-            color: #AB45E6;
+            background-color: #00f;
+            color: #fff;
             font-family: 'Courier New', Courier, monospace;
             display: flex;
             flex-direction: column;
@@ -21,7 +21,7 @@ u just suck
         }
 
         h1 { font-size: 3rem; margin-bottom: 10px; }
-        p { font-size: 1.5rem; color: #FF0000; }
+        p { font-size: 1.5rem; color: #FF0; }
 
         #run-away-btn {
             padding: 15px 30px;
